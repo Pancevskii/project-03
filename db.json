@@ -1,1284 +1,1283 @@
 {
-    "homePageCook": [
-      {
-        "id": 1,
+  "homePageCook": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "name": "Софија Софијанова",
+      "rating": 4,
+      "cuisines": ["медитеранска", "традиционална", "кинеска"],
+      "location": "300m",
+      "details": {
+        "thumbnailImageUrl": 1,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
+        "delivery": "no",
+        "numberOfDelivery": 20,
+        "reviews": 2,
         "imageUrl": 1,
-        "name": "Софија Софијанова",
-        "rating": 4,
-        "cuisines": ["медитеранска", "традиционална", "кинеска"],
-        "location": "300m",
-        "details": {
-          "thumbnailImageUrl": 1,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "no",
-          "numberOfDelivery": 20,
-          "reviews": 2,
-          "imageUrl": 1,
-          "title": "скара и компири",
-          "prise": 600
+        "title": "скара и компири",
+        "prise": 600
+      },
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 2
-          }
-        ]
-      },
-      {
-        "id": 2,
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "name": "Маја Трајковска",
+      "rating": 3,
+      "cuisines": ["вегетеријанска", "традиционална", "италијанска"],
+      "location": "200m",
+      "details": {
+        "thumbnailImageUrl": 2,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
+        "delivery": "no",
+        "numberOfDelivery": 22,
+        "reviews": 3,
         "imageUrl": 2,
-        "name": "Маја Трајковска",
-        "rating": 3,
-        "cuisines": ["вегетеријанска", "традиционална", "италијанска"],
-        "location": "200m",
-        "details": {
-          "thumbnailImageUrl": 2,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "no",
-          "numberOfDelivery": 22,
-          "reviews": 3,
-          "imageUrl": 2,
-          "title": "пита пастрмајлија",
-          "prise": 700
+        "title": "пита пастрмајлија",
+        "prise": 700
+      },
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 5
-          },
-          {
-            "id": 2,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 4
-          }
-        ]
-      },
-  
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "name": "Ирена Стојановска",
-        "rating": 5,
-        "cuisines": ["вегетеријанска", "традиционална", "италијанска"],
-        "location": "800m",
-        "details": {
-          "thumbnailImageUrl": 3,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "yes",
-          "numberOfDelivery": 21,
-          "reviews": 4,
-          "imageUrl": 3,
-          "title": "ќофтиња",
-          "prise": 500
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 5
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 3
-          },
-          {
-            "id": 2,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 2
-          },
-          {
-            "id": 3,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 1
-          }
-        ]
+        {
+          "id": 2,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 4
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "name": "Ирена Стојановска",
+      "rating": 5,
+      "cuisines": ["вегетеријанска", "традиционална", "италијанска"],
+      "location": "800m",
+      "details": {
+        "thumbnailImageUrl": 3,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
+        "delivery": "yes",
+        "numberOfDelivery": 21,
+        "reviews": 4,
+        "imageUrl": 3,
+        "title": "ќофтиња",
+        "prise": 500
       },
-      {
-        "id": 4,
-        "imageUrl": 1,
-        "name": "Верка С.",
-        "rating": 4,
-        "cuisines": ["кинеска", "мексиканска", "салати"],
-        "location": "300m",
-        "details": {
-          "thumbnailImageUrl": 1,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "yes",
-          "numberOfDelivery": 20,
-          "reviews": 4,
-          "imageUrl": 1,
-          "title": "скара и компири",
-          "prise": 600
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 4
-          },
-          {
-            "id": 2,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 3
-          },
-          {
-            "id": 3,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 2
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "imageUrl": 3,
-        "name": "Ивана Ристовска",
-        "rating": 4,
-        "cuisines": ["кето", "италијанска", "веганска"],
-        "location": "300m",
-        "details": {
-          "thumbnailImageUrl": 1,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "yes",
-          "numberOfDelivery": 20,
-          "reviews": 4,
-          "imageUrl": 1,
-          "title": "скара и компири",
-          "prise": 600
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 3
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 4
-          },
-          {
-            "id": 2,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 3
-          },
-          {
-            "id": 3,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 3
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "imageUrl": 2,
-        "name": "Ива Неделковска",
-        "rating": 3,
-        "cuisines": ["вегетеријанска", "риба", "мексиканска"],
-        "location": "300m",
-        "details": {
-          "thumbnailImageUrl": 1,
-          "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
-          "delivery": "no",
-          "numberOfDelivery": 20,
-          "reviews": 4,
-          "imageUrl": 1,
-          "title": "скара и компири",
-          "prise": 600
+        {
+          "id": 2,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 2
         },
-        "reviewsList": [
-          {
-            "id": 0,
-            "author": "Marta",
-            "comment": "The food was great!",
-            "stars": 5
-          },
-          {
-            "id": 1,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 5
-          },
-          {
-            "id": 2,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 4
-          },
-          {
-            "id": 3,
-            "author": "Marko",
-            "comment": "Not that good!",
-            "stars": 3
-          }
-        ]
-      }
-    ],
-    "homePageDescription": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "heading": "Поврзување",
-        "title": "Вистински луѓе. Автентична љубов."
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "heading": "Споделување на радост!",
-        "title": "Уживајте во заедницата преку храна."
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "heading": "Кулинарски можности!",
-        "title": "Зајакнување на домашните готвачи."
-      }
-    ],
-    "homePageUsers": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "date": "01.02.2023",
-        "rating": 4,
-        "description": "Највкусната домашна храна што сум ја пробала! Едвај чекам да пробам уште многу вкусни јадења.",
-        "name": "Мила Крстева",
-        "age": 32
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "date": "12.02.2023",
-        "rating": 5,
-        "description": "Јади домашно е најдобро нешто од мојот студентски живот во Скопје.",
-        "name": "Лара Миланова",
-        "age": 22
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "date": "05.02.2023",
-        "rating": 3,
-        "description": "Ниеден ресторант не може да го замени вкусот на домашно тавче гравче. Браво јади домашно!!!",
-        "name": "Миле Венковски",
-        "age": 40
-      }
-    ],
-    "detailsFeedBack": [
-      {
-        "id": 1,
-        "cookId": 1,
-        "name": "Маја А.",
-        "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "cookId": 1,
-        "name": "Дарио В.",
-        "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "cookId": 1,
-        "name": "Сања Х.",
-        "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ],
-    "btnAlergeni": [
-      {
-        "id": 1,
-        "nameBtn": "Јатки"
-      },
-      {
-        "id": 2,
-        "nameBtn": "Риба"
-      },
-      {
-        "id": 3,
-        "nameBtn": "Лактоза"
-      },
-      {
-        "id": 4,
-        "nameBtn": "Глутен"
-      },
-      {
-        "id": 5,
-        "nameBtn": "Соја"
-      },
-      {
-        "id": 6,
-        "nameBtn": "Чоколадо"
-      },
-      {
-        "id": 7,
-        "nameBtn": "Пченица"
-      },
-      {
-        "id": 8,
-        "nameBtn": "Мед"
-      },
-      {
-        "id": 9,
-        "nameBtn": "Морско"
-      }
-    ],
-    "btnCuisines": [
-      {
-        "id": 1,
-        "nameBtn": "вегетеријанска"
-      },
-      {
-        "id": 2,
-        "nameBtn": "кинеска"
-      },
-      {
-        "id": 3,
-        "nameBtn": "мексиканска"
-      },
-      {
-        "id": 4,
-        "nameBtn": "традиционална"
-      },
-      {
-        "id": 5,
-        "nameBtn": "медитеранска"
-      },
-      {
-        "id": 6,
-        "nameBtn": "салати"
-      },
-      {
-        "id": 7,
-        "nameBtn": "риба"
-      },
-      {
-        "id": 8,
-        "nameBtn": "италијанска"
-      },
-      {
-        "id": 9,
-        "nameBtn": "кето"
-      }
-    ],
-    "mondayMenu": [
-      {
-        "id": 1,
-        "cookId": 1,
-        "imageUrl": 1,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Свинско динстано",
-        "price": 300,
-        "rating": 3,
-        "location": 300,
+        {
+          "id": 3,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": 1,
+      "name": "Верка С.",
+      "rating": 4,
+      "cuisines": ["кинеска", "мексиканска", "салати"],
+      "location": "300m",
+      "details": {
+        "thumbnailImageUrl": 1,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
         "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно веднаш",
-        "alergen": "Јатки",
-        "time": "30-45m",
-        "availablePortion": 3,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "cookId": 2,
-        "imageUrl": 2,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Скара и компири",
-        "price": 300,
-        "rating": 3,
-        "location": 800,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Риба",
-        "time": "1h",
-        "availablePortion": 4,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "cookId": 3,
-        "imageUrl": 3,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Кременадли Вратни",
-        "price": 600,
-        "rating": 3,
-        "location": 300,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "1h",
-        "availablePortion": 5,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 4,
-        "cookId": 4,
+        "numberOfDelivery": 20,
+        "reviews": 4,
         "imageUrl": 1,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Салата со брокула",
-        "price": 200,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Лактоза",
-        "time": "1h",
-        "availablePortion": 6,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+        "title": "скара и компири",
+        "prise": 600
       },
-      {
-        "id": 5,
-        "cookId": 1,
-        "imageUrl": 2,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Ќофтиња",
-        "price": 300,
-        "rating": 4,
-        "location": 300,
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
+        },
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 4
+        },
+        {
+          "id": 2,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 3
+        },
+        {
+          "id": 3,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": 3,
+      "name": "Ивана Ристовска",
+      "rating": 4,
+      "cuisines": ["кето", "италијанска", "веганска"],
+      "location": "300m",
+      "details": {
+        "thumbnailImageUrl": 1,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
+        "delivery": "yes",
+        "numberOfDelivery": 20,
+        "reviews": 4,
+        "imageUrl": 1,
+        "title": "скара и компири",
+        "prise": 600
+      },
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
+        },
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 4
+        },
+        {
+          "id": 2,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 3
+        },
+        {
+          "id": 3,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": 2,
+      "name": "Ива Неделковска",
+      "rating": 3,
+      "cuisines": ["вегетеријанска", "риба", "мексиканска"],
+      "location": "300m",
+      "details": {
+        "thumbnailImageUrl": 1,
+        "description": "Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција,Израснав со традиционалната храна што секојдневно ни ја приготвуваше мајка ми во семејството.Одтаму и мојата љубов да ја продолжам фамилијарната традиција.",
         "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно веднаш",
-        "alergen": "Чоколадо",
-        "time": "30m",
-        "availablePortion": 7,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 6,
-        "cookId": 2,
+        "numberOfDelivery": 20,
+        "reviews": 4,
         "imageUrl": 1,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Кременадли свински",
-        "price": 700,
-        "rating": 4,
-        "location": 800,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Пченица",
-        "time": "30-45m",
-        "availablePortion": 8,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+        "title": "скара и компири",
+        "prise": 600
       },
-      {
-        "id": 7,
-        "cookId": 3,
-        "imageUrl": 1,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Ќофтиња",
-        "price": 400,
-        "rating": 4,
-        "location": 300,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "30m",
-        "availablePortion": 9,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 8,
-        "cookId": 4,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Ајвар",
-        "price": 200,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Мед",
-        "time": "30m",
-        "availablePortion": 3,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 9,
-        "cookId": 1,
-        "imageUrl": 1,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Шопска салата",
-        "price": 120,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Мед",
-        "time": "1h",
-        "availablePortion": 4,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 10,
-        "cookId": 1,
-        "imageUrl": 1,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Ајвар",
-        "price": 150,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Мед",
-        "time": "30-45m",
-        "availablePortion": 5,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 11,
-        "cookId": 1,
-        "imageUrl": 1,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Витаминска салата",
-        "price": 117,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Мед",
-        "time": "30m",
-        "availablePortion": 6,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 12,
-        "cookId": 1,
-        "imageUrl": 1,
-        "cookImageUrl": 1,
-        "cookName": "Софија Софијанова",
-        "foodName": "Скара и компири",
-        "price": 190,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно веднаш",
-        "alergen": "Мед",
-        "time": "1h",
-        "availablePortion": 7,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 13,
-        "cookId": 2,
-        "imageUrl": 3,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Кременадли Вратни",
-        "price": 500,
-        "rating": 5,
-        "location": 800,
-        "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "1h",
-        "availablePortion": 8,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 14,
-        "cookId": 2,
-        "imageUrl": 2,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Ајвар",
-        "price": 500,
-        "rating": 5,
-        "location": 800,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "1h",
-        "availablePortion": 9,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 15,
-        "cookId": 2,
-        "imageUrl": 3,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Витаминска салата",
-        "price": 500,
-        "rating": 5,
-        "location": 800,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 3,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 16,
-        "cookId": 2,
-        "imageUrl": 1,
-        "cookImageUrl": 2,
-        "cookName": "Маја Трајковска",
-        "foodName": "Шопска салата",
-        "price": 500,
-        "rating": 5,
-        "location": 800,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "30m",
-        "availablePortion": 4,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 17,
-        "cookId": 3,
-        "imageUrl": 1,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Скара и компири",
-        "price": 900,
-        "rating": 5,
-        "location": 300,
-        "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "30-45m",
-        "availablePortion": 5,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 18,
-        "cookId": 3,
-        "imageUrl": 1,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Ајвар",
-        "price": 300,
-        "rating": 3,
-        "location": 300,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "30m",
-        "availablePortion": 6,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 19,
-        "cookId": 3,
-        "imageUrl": 2,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Витаминска салата",
-        "price": 400,
-        "rating": 5,
-        "location": 300,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "30-45m",
-        "availablePortion": 7,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 20,
-        "cookId": 3,
-        "imageUrl": 1,
-        "cookImageUrl": 3,
-        "cookName": "Ирена Стојановска",
-        "foodName": "Салата со брокула",
-        "price": 600,
-        "rating": 4,
-        "location": 300,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно по порачка",
-        "alergen": "Глутен",
-        "time": "1h",
-        "availablePortion": 8,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 21,
-        "cookId": 4,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Витаминска салата",
-        "price": 300,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 9,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 22,
-        "cookId": 4,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Кременадли Вратни",
-        "price": 500,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "30m",
-        "availablePortion": 10,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 23,
-        "cookId": 4,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Свинско динстано",
-        "price": 800,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно веднаш",
-        "alergen": "Соја",
-        "time": "1h",
-        "availablePortion": 3,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 24,
-        "cookId": 4,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Верка С.",
-        "foodName": "Скара и компири",
-        "price": 200,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 4,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 25,
-        "cookId": 5,
-        "imageUrl": 1,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Скара и компири",
-        "price": 600,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 5,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 26,
-        "cookId": 5,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Ќофтиња",
-        "price": 200,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 6,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 27,
-        "cookId": 5,
-        "imageUrl": 3,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Кременадли Вратни",
-        "price": 300,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "30m",
-        "availablePortion": 7,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 28,
-        "cookId": 5,
-        "imageUrl": 1,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Ајвар",
-        "price": 300,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно по порачка",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 8,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 29,
-        "cookId": 5,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Витаминска салата",
-        "price": 500,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Морско",
-        "time": "1h",
-        "availablePortion": 9,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 30,
-        "cookId": 5,
-        "imageUrl": 3,
-        "cookImageUrl": 4,
-        "cookName": "Ивана Ристовска",
-        "foodName": "Шопска салата",
-        "price": 500,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Морско",
-        "time": "30m",
-        "availablePortion": 3,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 31,
-        "cookId": 6,
-        "imageUrl": 3,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Кременадли Вратни",
-        "price": 300,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "30m",
-        "availablePortion": 4,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 32,
-        "cookId": 6,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Свинско динстано",
-        "price": 400,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Оброк",
-        "available": "Достапно по порачка",
-        "alergen": "Пченица",
-        "time": "30-45m",
-        "availablePortion": 5,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 33,
-        "cookId": 6,
-        "imageUrl": 1,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Ќофтиња",
-        "price": 600,
-        "rating": 3,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Оброк",
-        "available": "Достапно утре",
-        "alergen": "Соја",
-        "time": "1h",
-        "availablePortion": 6,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 34,
-        "cookId": 6,
-        "imageUrl": 3,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Ајвар",
-        "price": 300,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно по порачка",
-        "alergen": "Соја",
-        "time": "30m",
-        "availablePortion": 7,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 35,
-        "cookId": 6,
-        "imageUrl": 2,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Витаминска салата",
-        "price": 500,
-        "rating": 4,
-        "location": 1200,
-        "delivery": "no",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Соја",
-        "time": "30-45m",
-        "availablePortion": 8,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 36,
-        "cookId": 6,
-        "imageUrl": 1,
-        "cookImageUrl": 4,
-        "cookName": "Ива Неделковска",
-        "foodName": "Шопска салата",
-        "price": 200,
-        "rating": 5,
-        "location": 1200,
-        "delivery": "yes",
-        "category": "Салати",
-        "available": "Достапно веднаш",
-        "alergen": "Соја",
-        "time": "1h",
-        "availablePortion": 9,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
-        "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
-        "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ],
-    "howHeadCardsCooks": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "title": "Заработи чесно!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "title": "Биди свој готвач!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "title": "Послужи среќни клиенти!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ],
-    "howHeadCardsGurman": [
-      {
-        "id": 1,
-        "imageUrl": 4,
-        "title": "Побрзување!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "imageUrl": 5,
-        "title": "Споделување на радост!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "imageUrl": 6,
-        "title": "Кулинарски можности!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ],
-    "howCooksCards": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 4,
-        "imageUrl": 1,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 5,
-        "imageUrl": 2,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 6,
-        "imageUrl": 3,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      },
-      {
-        "id": 7,
-        "imageUrl": 1,
-        "title": "Вашата кујна треба да биде чиста и уредна"
-      }
-    ],
-    "howStickerCooks": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "title": "Добијте одобрение за готвење",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "title": "Добијте одобрение за готвење",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "title": "Добијте одобрение за готвење",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 4,
-        "imageUrl": 4,
-        "title": "Добијте одобрение за готвење",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 5,
-        "imageUrl": 5,
-        "title": "Добијте одобрение за готвење",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ],
-    "howStickerGurman": [
-      {
-        "id": 1,
-        "imageUrl": 1,
-        "title": "Регистрирај се на платформата како гурман!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 2,
-        "imageUrl": 2,
-        "title": "Нарачај брзо и лесно!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      },
-      {
-        "id": 3,
-        "imageUrl": 3,
-        "title": "Јадете домашно!",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
-      }
-    ]
-  }
-  
+      "reviewsList": [
+        {
+          "id": 0,
+          "author": "Marta",
+          "comment": "The food was great!",
+          "stars": 5
+        },
+        {
+          "id": 1,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 5
+        },
+        {
+          "id": 2,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 4
+        },
+        {
+          "id": 3,
+          "author": "Marko",
+          "comment": "Not that good!",
+          "stars": 3
+        }
+      ]
+    }
+  ],
+  "homePageDescription": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "heading": "Поврзување",
+      "title": "Вистински луѓе. Автентична љубов."
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "heading": "Споделување на радост!",
+      "title": "Уживајте во заедницата преку храна."
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "heading": "Кулинарски можности!",
+      "title": "Зајакнување на домашните готвачи."
+    }
+  ],
+  "homePageUsers": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "date": "01.02.2023",
+      "rating": 4,
+      "description": "Највкусната домашна храна што сум ја пробала! Едвај чекам да пробам уште многу вкусни јадења.",
+      "name": "Мила Крстева",
+      "age": 32
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "date": "12.02.2023",
+      "rating": 5,
+      "description": "Јади домашно е најдобро нешто од мојот студентски живот во Скопје.",
+      "name": "Лара Миланова",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "date": "05.02.2023",
+      "rating": 3,
+      "description": "Ниеден ресторант не може да го замени вкусот на домашно тавче гравче. Браво јади домашно!!!",
+      "name": "Миле Венковски",
+      "age": 40
+    }
+  ],
+  "detailsFeedBack": [
+    {
+      "id": 1,
+      "cookId": 1,
+      "name": "Маја А.",
+      "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "cookId": 1,
+      "name": "Дарио В.",
+      "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "cookId": 1,
+      "name": "Сања Х.",
+      "feedBack": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ],
+  "btnAlergeni": [
+    {
+      "id": 1,
+      "nameBtn": "Јатки"
+    },
+    {
+      "id": 2,
+      "nameBtn": "Риба"
+    },
+    {
+      "id": 3,
+      "nameBtn": "Лактоза"
+    },
+    {
+      "id": 4,
+      "nameBtn": "Глутен"
+    },
+    {
+      "id": 5,
+      "nameBtn": "Соја"
+    },
+    {
+      "id": 6,
+      "nameBtn": "Чоколадо"
+    },
+    {
+      "id": 7,
+      "nameBtn": "Пченица"
+    },
+    {
+      "id": 8,
+      "nameBtn": "Мед"
+    },
+    {
+      "id": 9,
+      "nameBtn": "Морско"
+    }
+  ],
+  "btnCuisines": [
+    {
+      "id": 1,
+      "nameBtn": "вегетеријанска"
+    },
+    {
+      "id": 2,
+      "nameBtn": "кинеска"
+    },
+    {
+      "id": 3,
+      "nameBtn": "мексиканска"
+    },
+    {
+      "id": 4,
+      "nameBtn": "традиционална"
+    },
+    {
+      "id": 5,
+      "nameBtn": "медитеранска"
+    },
+    {
+      "id": 6,
+      "nameBtn": "салати"
+    },
+    {
+      "id": 7,
+      "nameBtn": "риба"
+    },
+    {
+      "id": 8,
+      "nameBtn": "италијанска"
+    },
+    {
+      "id": 9,
+      "nameBtn": "кето"
+    }
+  ],
+  "mondayMenu": [
+    {
+      "id": 1,
+      "cookId": 1,
+      "imageUrl": 1,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Свинско динстано",
+      "price": 300,
+      "rating": 3,
+      "location": 300,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно веднаш",
+      "alergen": "Јатки",
+      "time": "30-45m",
+      "availablePortion": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "cookId": 2,
+      "imageUrl": 2,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Скара и компири",
+      "price": 300,
+      "rating": 3,
+      "location": 800,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Риба",
+      "time": "1h",
+      "availablePortion": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "cookId": 3,
+      "imageUrl": 3,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Кременадли Вратни",
+      "price": 600,
+      "rating": 3,
+      "location": 300,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "1h",
+      "availablePortion": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 4,
+      "cookId": 4,
+      "imageUrl": 1,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Салата со брокула",
+      "price": 200,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Лактоза",
+      "time": "1h",
+      "availablePortion": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 5,
+      "cookId": 1,
+      "imageUrl": 2,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Ќофтиња",
+      "price": 300,
+      "rating": 4,
+      "location": 300,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно веднаш",
+      "alergen": "Чоколадо",
+      "time": "30m",
+      "availablePortion": 7,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 6,
+      "cookId": 2,
+      "imageUrl": 1,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Кременадли свински",
+      "price": 700,
+      "rating": 4,
+      "location": 800,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Пченица",
+      "time": "30-45m",
+      "availablePortion": 8,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 7,
+      "cookId": 3,
+      "imageUrl": 1,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Ќофтиња",
+      "price": 400,
+      "rating": 4,
+      "location": 300,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "30m",
+      "availablePortion": 9,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 8,
+      "cookId": 4,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Ајвар",
+      "price": 200,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Мед",
+      "time": "30m",
+      "availablePortion": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 9,
+      "cookId": 1,
+      "imageUrl": 1,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Шопска салата",
+      "price": 120,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Мед",
+      "time": "1h",
+      "availablePortion": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 10,
+      "cookId": 1,
+      "imageUrl": 1,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Ајвар",
+      "price": 150,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Мед",
+      "time": "30-45m",
+      "availablePortion": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 11,
+      "cookId": 1,
+      "imageUrl": 1,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Витаминска салата",
+      "price": 117,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Мед",
+      "time": "30m",
+      "availablePortion": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 12,
+      "cookId": 1,
+      "imageUrl": 1,
+      "cookImageUrl": 1,
+      "cookName": "Софија Софијанова",
+      "foodName": "Скара и компири",
+      "price": 190,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно веднаш",
+      "alergen": "Мед",
+      "time": "1h",
+      "availablePortion": 7,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 13,
+      "cookId": 2,
+      "imageUrl": 3,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Кременадли Вратни",
+      "price": 500,
+      "rating": 5,
+      "location": 800,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "1h",
+      "availablePortion": 8,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 14,
+      "cookId": 2,
+      "imageUrl": 2,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Ајвар",
+      "price": 500,
+      "rating": 5,
+      "location": 800,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "1h",
+      "availablePortion": 9,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 15,
+      "cookId": 2,
+      "imageUrl": 3,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Витаминска салата",
+      "price": 500,
+      "rating": 5,
+      "location": 800,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 16,
+      "cookId": 2,
+      "imageUrl": 1,
+      "cookImageUrl": 2,
+      "cookName": "Маја Трајковска",
+      "foodName": "Шопска салата",
+      "price": 500,
+      "rating": 5,
+      "location": 800,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "30m",
+      "availablePortion": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 17,
+      "cookId": 3,
+      "imageUrl": 1,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Скара и компири",
+      "price": 900,
+      "rating": 5,
+      "location": 300,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "30-45m",
+      "availablePortion": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 18,
+      "cookId": 3,
+      "imageUrl": 1,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Ајвар",
+      "price": 300,
+      "rating": 3,
+      "location": 300,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "30m",
+      "availablePortion": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 19,
+      "cookId": 3,
+      "imageUrl": 2,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Витаминска салата",
+      "price": 400,
+      "rating": 5,
+      "location": 300,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "30-45m",
+      "availablePortion": 7,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 20,
+      "cookId": 3,
+      "imageUrl": 1,
+      "cookImageUrl": 3,
+      "cookName": "Ирена Стојановска",
+      "foodName": "Салата со брокула",
+      "price": 600,
+      "rating": 4,
+      "location": 300,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно по порачка",
+      "alergen": "Глутен",
+      "time": "1h",
+      "availablePortion": 8,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 21,
+      "cookId": 4,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Витаминска салата",
+      "price": 300,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 9,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 22,
+      "cookId": 4,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Кременадли Вратни",
+      "price": 500,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "30m",
+      "availablePortion": 10,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 23,
+      "cookId": 4,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Свинско динстано",
+      "price": 800,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно веднаш",
+      "alergen": "Соја",
+      "time": "1h",
+      "availablePortion": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 24,
+      "cookId": 4,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Верка С.",
+      "foodName": "Скара и компири",
+      "price": 200,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 25,
+      "cookId": 5,
+      "imageUrl": 1,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Скара и компири",
+      "price": 600,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 26,
+      "cookId": 5,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Ќофтиња",
+      "price": 200,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 27,
+      "cookId": 5,
+      "imageUrl": 3,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Кременадли Вратни",
+      "price": 300,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "30m",
+      "availablePortion": 7,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 28,
+      "cookId": 5,
+      "imageUrl": 1,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Ајвар",
+      "price": 300,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно по порачка",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 8,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 29,
+      "cookId": 5,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Витаминска салата",
+      "price": 500,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Морско",
+      "time": "1h",
+      "availablePortion": 9,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 30,
+      "cookId": 5,
+      "imageUrl": 3,
+      "cookImageUrl": 4,
+      "cookName": "Ивана Ристовска",
+      "foodName": "Шопска салата",
+      "price": 500,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Морско",
+      "time": "30m",
+      "availablePortion": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 31,
+      "cookId": 6,
+      "imageUrl": 3,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Кременадли Вратни",
+      "price": 300,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "30m",
+      "availablePortion": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 32,
+      "cookId": 6,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Свинско динстано",
+      "price": 400,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Оброк",
+      "available": "Достапно по порачка",
+      "alergen": "Пченица",
+      "time": "30-45m",
+      "availablePortion": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 33,
+      "cookId": 6,
+      "imageUrl": 1,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Ќофтиња",
+      "price": 600,
+      "rating": 3,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Оброк",
+      "available": "Достапно утре",
+      "alergen": "Соја",
+      "time": "1h",
+      "availablePortion": 6,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 34,
+      "cookId": 6,
+      "imageUrl": 3,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Ајвар",
+      "price": 300,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно по порачка",
+      "alergen": "Соја",
+      "time": "30m",
+      "availablePortion": 7,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 35,
+      "cookId": 6,
+      "imageUrl": 2,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Витаминска салата",
+      "price": 500,
+      "rating": 4,
+      "location": 1200,
+      "delivery": "no",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Соја",
+      "time": "30-45m",
+      "availablePortion": 8,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 36,
+      "cookId": 6,
+      "imageUrl": 1,
+      "cookImageUrl": 4,
+      "cookName": "Ива Неделковска",
+      "foodName": "Шопска салата",
+      "price": 200,
+      "rating": 5,
+      "location": 1200,
+      "delivery": "yes",
+      "category": "Салати",
+      "available": "Достапно веднаш",
+      "alergen": "Соја",
+      "time": "1h",
+      "availablePortion": 9,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "ingredients": "Состав на порцијата,ржано брашно,свеж квасец,кравјо сирење.",
+      "nutrition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore.",
+      "alergies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ],
+  "howHeadCardsCooks": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "title": "Заработи чесно!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "title": "Биди свој готвач!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "title": "Послужи среќни клиенти!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ],
+  "howHeadCardsGurman": [
+    {
+      "id": 1,
+      "imageUrl": 4,
+      "title": "Побрзување!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "imageUrl": 5,
+      "title": "Споделување на радост!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "imageUrl": 6,
+      "title": "Кулинарски можности!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ],
+  "howCooksCards": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 4,
+      "imageUrl": 1,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 5,
+      "imageUrl": 2,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 6,
+      "imageUrl": 3,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    },
+    {
+      "id": 7,
+      "imageUrl": 1,
+      "title": "Вашата кујна треба да биде чиста и уредна"
+    }
+  ],
+  "howStickerCooks": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "title": "Добијте одобрение за готвење",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "title": "Добијте одобрение за готвење",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "title": "Добијте одобрение за готвење",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 4,
+      "imageUrl": 4,
+      "title": "Добијте одобрение за готвење",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 5,
+      "imageUrl": 5,
+      "title": "Добијте одобрение за готвење",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ],
+  "howStickerGurman": [
+    {
+      "id": 1,
+      "imageUrl": 1,
+      "title": "Регистрирај се на платформата како гурман!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 2,
+      "imageUrl": 2,
+      "title": "Нарачај брзо и лесно!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    },
+    {
+      "id": 3,
+      "imageUrl": 3,
+      "title": "Јадете домашно!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti provident dolore sed illum error, est dolorum sit quam. Ad, tempore soluta expedita eveniet consectetur incidunt inventore tenetur optio dolore."
+    }
+  ]
+}
